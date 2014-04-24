@@ -3,3 +3,11 @@
     height: 79px;
     background: url(../img/UWI-logo.JPG) no-repeat;
 }
+
+.content-wrap {
+    margin: 75px 75px;
+}
+
+.navbar .navbar-inner {
+    background: #0e60c3;
+}
